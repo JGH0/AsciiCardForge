@@ -1,5 +1,4 @@
-
-
+package com.jgh0.asciicardforge;
 public class CardPrinter {
 
 	// Print multiple cards as varargs

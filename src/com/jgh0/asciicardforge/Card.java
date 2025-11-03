@@ -1,4 +1,4 @@
-
+package com.jgh0.asciicardforge;
 
 public class Card {
 	private final Suit suit;

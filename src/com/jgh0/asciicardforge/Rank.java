@@ -1,3 +1,4 @@
+package com.jgh0.asciicardforge;
 
 
 public enum Rank {
